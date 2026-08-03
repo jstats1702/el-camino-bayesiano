@@ -30,5 +30,7 @@ El código en R y las bases de datos utilizadas en todas las secciones y ejemplo
 ### Apéndices
 
 A. Fundamentos de Inferencia Frecuentista
+
 B. Distribuciones
+
 C. Notación
