@@ -7,7 +7,7 @@ setwd("~/Dropbox/UN/bayes_book")
 
 # Cargar datos
 dat <- read.csv(
-     file             = file.path(dir_work, "Examen_Saber_11_20251.txt"),
+     file             = file.path("Examen_Saber_11_20251.txt"),
      sep              = ";",
      stringsAsFactors = FALSE
 )
