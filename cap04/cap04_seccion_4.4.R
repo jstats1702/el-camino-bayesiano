@@ -11,6 +11,8 @@ suppressMessages(suppressWarnings(library(ggraph)))
 
 # Grafo ------------------------------------------------------------------------
 
+data("elist.lazega", package = "sand")
+
 lazega <- graph_from_data_frame(d = elist.lazega, directed = FALSE)
 
 # Clase de objeto
