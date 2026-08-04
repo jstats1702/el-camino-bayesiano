@@ -45,9 +45,9 @@ round(assortativity_degree_value, 3)
 
 fast_greedy <- cluster_fast_greedy(graph = g)
 
-community_membership <- membership(fast_greedy)
-community_groups     <- groups(fast_greedy)
-community_sizes      <- sizes(fast_greedy)
+community_membership <- igraph::membership(fast_greedy)
+community_groups     <- igraph::groups(fast_greedy)
+community_sizes      <- igraph::sizes(fast_greedy)
 
 modularity_value <- modularity(fast_greedy)
 
