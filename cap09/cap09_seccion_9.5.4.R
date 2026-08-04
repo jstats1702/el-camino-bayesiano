@@ -801,6 +801,8 @@ plot(
      main = ""
 )
 
+dev.off()
+
 # Comparación de beta verdadero con beta estimado ------------------------------
 
 beta_true <- as.numeric(beta_true)
