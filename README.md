@@ -6,9 +6,9 @@ El libro busca mantener un equilibrio entre la teoría, la implementación compu
 
 A lo largo de los capítulos se presentan ejemplos y aplicaciones basados en casos reales, acompañados de explicaciones detalladas y código reproducible. Todo el código utilizado en las secciones, ejemplos y ejercicios aplicados se encuentra disponible abiertamente en este repositorio.
 
-El libro puede descargarse gratuitamente en [este enlace](https://sites.google.com/view/juansosa/the-bayesian-way).
+El libro y las bases de datos pueden descargarse gratuitamente en [este enlace](https://sites.google.com/view/juansosa/the-bayesian-way).
 
-El código en R y las bases de datos utilizadas en todas las secciones y ejemplos del libro están disponibles gratuitamente en este repositorio.
+El código en R utilizado en todas las secciones y ejemplos del libro están disponibles gratuitamente en este repositorio.
 
 ## Contenido
 
